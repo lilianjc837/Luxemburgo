@@ -1,0 +1,54 @@
+@media ( min-widht  : 650px ) {
+
+    .titulo {
+        display: flex;
+    }
+
+    .historia {
+        width: 100%;
+    }
+
+    .cultura {
+        width: 100%;
+    }
+
+    .infogeral {
+        width: 100%;
+    }
+
+    .política {
+        width: 100%;
+    }
+
+    .turísticos {
+        width: 100%;
+    }
+
+    .ponto1 {
+        width: 100%;
+    }
+
+    .ponto2 {
+        width: 100%;
+    }
+
+    .linkvideo {
+        width: 100%;
+    }
+
+    main {
+        width: 40rem;
+        padding: 0%;
+    }
+
+    body {
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    h1 {
+        font-size: 1.5rem;
+    }
+}
